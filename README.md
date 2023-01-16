@@ -54,7 +54,7 @@ We would like to acknowledge MORINGA for providing the data used in this project
 # EXAMPLE
 In this example, the model takes the input of sqft, no. of bathrooms, no. of bedrooms and waterfront area and predicts the housing price.
 
-# Conclusion
+# CONCLUSION
 
 The model was able to accurately predict the sale price of a property based on the discussed variables.
 The results of this analysis can be used to inform real estate pricing and investment decisions.
