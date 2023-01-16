@@ -52,7 +52,7 @@ This project is licensed under the MIT License, which means you can use, modify,
 We would like to acknowledge MORINGA for providing the data used in this project and  King County gis opendata for the map data.
 
 # EXAMPLE
-In this example, the model takes the input of sqft, no of bathrooms, no of bedrooms and waterfront area and predicts the housing price.
+In this example, the model takes the input of sqft, no. of bathrooms, no. of bedrooms and waterfront area and predicts the housing price.
 
 # Conclusion
 
